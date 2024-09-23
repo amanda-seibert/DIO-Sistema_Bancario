@@ -5,9 +5,13 @@ Na primeira versão do sistema, tivemos que implementar apenas três funcionalid
 
 We were selected by a major bank to create their new system. This bank is looking to modernize its operations and chose Python as the programming language for this purpose. In the first version of the system, we had to implement only three features: deposit, withdrawal, and statement.
 
-🎇Update --> No primeiro update do trabalho, tivemos que otimizar o sistema bancário desenvolvido anteriormente a efetuar a adição de funções com o objetivo de aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas.
+🎇Update --> No primeiro update do trabalho, tivemos que otimizar o sistema bancário desenvolvido anteriormente a efetuar a adição de funções com o objetivo de aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. 
 
-🎇Update --> In the first update of the project, we had to optimize the previously developed banking system by adding functions to enhance the structure and efficiency of the system, implementing deposit, withdrawal, and statement operations in specific functions
+--> Como segundo update, houve atualização das operações existentes para atender o modelo de Programação Orientada a Objetos. Foi criado novas funções para que o código fique funcional no modelo POO.
+
+🎇Update --> In the first update of the project, we had to optimize the previously developed banking system by adding functions to enhance the structure and efficiency of the system, implementing deposit, withdrawal, and statement operations in specific functions.
+
+--> As a second update, the existing operations were updated to follow the Object-Oriented Programming (OOP) model. New functions were created to ensure the code is functional within the OOP structure.
 
 # Depósito/Deposit 💹
 
